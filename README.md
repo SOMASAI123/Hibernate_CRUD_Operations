@@ -6,3 +6,6 @@ created a crud operation class which contains insert,slect,update,delete methods
 
 Dependencies used :
 Hibernate Core
+MySQL Connector 
+
+
